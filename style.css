@@ -1,0 +1,67 @@
+body * {
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 16px;
+    box-sizing: border-box;
+    margin: auto;
+}
+.home-title {
+    color: purple;
+    font-size: 32px;
+    margin: 16px;
+}
+.links-title {
+    color:rgb(0, 157, 255); 
+    font-size: 24px;
+    margin: 16px;
+}
+.recipe-links {
+    font-size: 24px;
+    margin: 16px;
+}
+.title {
+    color: white;
+    background-color: black;
+    font-size: 24px;
+    text-align: center;
+    width: 500px;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+.ingredients {
+    color: green;
+    font-size: 20px;
+    text-align: center;
+    margin: 16px;
+}
+.food {
+    background-color: lightgreen;
+    font-size: 16px;
+    width: 500px;
+    padding: 8px;
+}
+.food .odd {
+    color: blue
+}
+.food .even {
+    background-color: rgb(162, 242, 50);
+}
+.image {
+    margin:auto;
+}
+.steps {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    margin: 16px;
+}
+.recipe-steps {
+    background-color: rgb(231, 183, 191);
+    width: 500px;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+.home {
+    font-size: 16px;
+    margin: 8px auto;
+}
